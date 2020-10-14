@@ -1,3 +1,5 @@
+## Fork of original repo to correct errors: https://nbei.github.io/video-inpainting.html 
+
 # Deep Flow-Guided Video Inpainting
 [CVPR 2019 Paper](https://arxiv.org/abs/1905.02884) | [Project Page](https://nbei.github.io/video-inpainting.html) | [YouTube](https://www.youtube.com/watch?v=LIJPUsrwx5E) | [BibeTex](#citation)
 
